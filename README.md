@@ -1,5 +1,5 @@
 # nomadcoder_class_vanilla_js
-nomadcoder class vanilla js
+javascript practice with nomadcoder class - making chrome app by vanilla js
 
-# link
+## link
 https://nomadcoders.co/javascript-for-beginners/lobby
