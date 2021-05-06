@@ -20,7 +20,6 @@ function deleteToDo(event){
     });
     toDos = cleanToDos;
     saveToDos();
-    console.log(idNumbers)
 }
 
 function paintToDo(text){
@@ -42,7 +41,6 @@ function paintToDo(text){
     };
     toDos.push(toDoObj);
     saveToDos();
-    console.log(idNumbers)
 }
 
 function handleSubmit(event){
